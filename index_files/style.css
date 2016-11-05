@@ -38,6 +38,12 @@ svg * {
     font-family: 'Slabo 27px';
 }
 
+#github-fork {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
 #page-container {
     width: 1000px;
     margin: 0 auto;

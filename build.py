@@ -24,11 +24,11 @@ def return_html(what=""):
 
       </head>
       <body>
+      <a href="https://github.com/iacchus/etudes/"><img id="github-fork" src="index_files/github-corner-right.svg" /></a>
         <div id="page-container">
           <h1>Musical Studies</h1>
 
           <div id="presentation">
-            <a href="https://github.com/iacchus/etudes/">GitHub</a> – <a href="https://iacchus.github.io">Website</a><br/><br/>
           </div>
 
           <div id="files">
